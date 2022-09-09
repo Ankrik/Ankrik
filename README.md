@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-blue-artificial-intelligence-technology-ai-robot-banner-image_196890.jpg)
+![MasterHead](https://pbs.twimg.com/profile_banners/1293762207948222467/1621097054/1080x360)
 <h1 align="center">Hi 👋, I'm Ankur Bodhak</h1>
 <h3 align="center">Software Developer & Data and BI Engineer</h3>
 <img align="right" alt="ankurbodhak" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
